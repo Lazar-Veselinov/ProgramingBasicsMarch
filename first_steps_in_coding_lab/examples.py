@@ -1,3 +1,3 @@
 import math
 
-print(math.ceil(3.14))
+print(f"{123.456:.2f}")
